@@ -28,4 +28,4 @@ else:
     print("The number or operator you entered was incorrect.  Read the instructions carefully and try again!")
 
 
-print("\n[Coded, edited and updated by Fin McGhie]\n")
+print("\n[Coded, edited and updated by Fin-M]\n")
